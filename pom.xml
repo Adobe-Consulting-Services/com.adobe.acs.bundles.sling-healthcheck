@@ -6,7 +6,7 @@
     <!-- ====================================================================== -->
     <groupId>com.adobe.acs.bundles</groupId>
     <artifactId>com.adobe.acs.bundles.sling-healthcheck</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>Sling Health Check Package</name>
     <description>Maven project for Sling Health Check content package.</description>
@@ -111,7 +111,7 @@
     
     <scm>
         <developerConnection>scm:git:git@github.com:Adobe-Consulting-Services/com.adobe.acs.bundles.sling-healthcheck.git</developerConnection>
-      <tag>com.adobe.acs.bundles.sling-healthcheck-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
   
     <repositories>
